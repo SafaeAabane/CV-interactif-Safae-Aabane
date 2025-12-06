@@ -1,8 +1,4 @@
-/* ---------------------- */
-/* STYLE GLOBAL */
-/* ---------------------- */
 
-/* Faire en sorte que la page d'accueil occupe tout l'écran */
 header {
     height: 100vh;          
     display: flex;  
